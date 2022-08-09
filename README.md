@@ -1,4 +1,4 @@
-# Phishing-
+# Phishing
 Phishing attack with termux
 
 apt update
